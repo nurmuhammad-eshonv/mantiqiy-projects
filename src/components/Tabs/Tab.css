@@ -1,0 +1,20 @@
+.btn{
+    width: 90px;
+    height: 50px;
+    background: transparent;
+    color:white;
+    padding: 10px;
+    border:solid white 2px;
+}
+.wrraa{
+    margin-top: 100px;
+    display: flex;
+    gap: 10px;
+    margin-left: 25px;
+}
+.title-wr{
+    color:white;
+    font-size: 8px;
+    margin-top: 10px;
+    border:solid white 2px;
+}

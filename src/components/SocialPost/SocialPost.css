@@ -1,0 +1,27 @@
+.btn-i {
+  width: auto;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.wrap {
+  display: flex;
+  gap: 90px;
+  text-align: center;
+  justify-content: center;
+}
+.wrapper{
+  margin-top: 100px;
+  border:solid rgb(247, 245, 245) 2px;
+  padding: 20px;
+}
+.like{
+  position: relative;
+  margin-left: 10px;
+  font-size: 20px;
+}
+.btn-like{
+  color: chartreuse
+}
+.btn-dis{
+  color:red
+}
