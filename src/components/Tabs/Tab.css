@@ -7,14 +7,26 @@
     border:solid white 2px;
 }
 .wrraa{
-    margin-top: 100px;
     display: flex;
     gap: 10px;
-    margin-left: 25px;
+    margin-left: 5px;
 }
 .title-wr{
     color:white;
     font-size: 8px;
     margin-top: 10px;
     border:solid white 2px;
+}
+.tab-wr{
+    margin-top: 100px;
+    border:solid white 2px;
+    padding: 20px;
+}
+.tab-title{
+   color:gold;
+   font-size: 29px;
+}
+.arrow{
+    font-size: 60px;
+    color:rgb(122, 235, 17)
 }

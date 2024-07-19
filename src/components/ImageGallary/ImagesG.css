@@ -1,0 +1,45 @@
+
+.Gall-wr {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: -240px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    cursor: pointer;
+}
+
+.Gall-wr img {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.Gall-wr img:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+
+.imss {
+    width: 830px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    text-align: center;
+    margin-left: -410px;
+    margin-top: 330px;
+    margin-bottom: 100px;
+    transition: opacity 0.3s ease;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+.imss[src] {
+    opacity: 1;
+}
+.img-wr h1{
+    color:rgb(208, 21, 214);
+    margin-top:100px;
+    margin-bottom: -40px;
+}

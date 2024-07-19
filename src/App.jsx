@@ -7,7 +7,7 @@ import Tab from "./components/Tabs/Tabs";
 import SocialPost from "./components/SocialPost/SocialPost";
 import GameFinder from "./components/gamesFinder/GameFinder";
 import ProgressBar from "./components/ProgressBar/ProgressBar";
-
+import ImagesG from "./components/ImageGallary/ImagesG";
 function App() {
 
   return (
@@ -17,6 +17,8 @@ function App() {
       <SocialPost/>
       <GameFinder/>
       <ProgressBar/>
+      <ImagesG/>
+
    </>
   );
 }
