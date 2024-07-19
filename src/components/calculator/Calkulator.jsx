@@ -16,7 +16,7 @@ function Calkulator() {
  <RiIncreaseDecreaseFill className="increment"/>
       <h1 className="">{counterState}</h1>
 
-      <button className="btn-i" onClick={handledecrement}>
+      <button className="btn-i btn-decr" onClick={handledecrement}>
         -
       </button>
       <button className="btn-i" onClick={handleIncrement}>
